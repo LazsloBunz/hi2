@@ -1,0 +1,7 @@
+name: Flex
+markdown: kramdown
+pygments: true
+baseurl: "/hi2"
+url: LazsloBunz.github.io
+github_username: LazsloBunz
+theme: flex
