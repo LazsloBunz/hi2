@@ -1,4 +1,4 @@
-flex
+flex!
 ====
 
 Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.
